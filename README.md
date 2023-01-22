@@ -1,5 +1,8 @@
 # Dask
+![image](https://user-images.githubusercontent.com/89139139/213912660-4cbe017d-defb-4673-8e2d-1f93c1693c2d.png)
+
 ***
+
 
 ## Dask vs. Pandas
 - Do we still need Pandas since PySpark sounds super? The answer is “Yes, definitely!” There are at least two advantages of Pandas that PySpark could not overcome:
