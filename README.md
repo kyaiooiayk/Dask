@@ -1,4 +1,13 @@
 # Dask
+***
+
+## Introduciton to Dask
+- Dask is a flexible open-source Python library for parallel computing.
+- Dask scales Python code from multi-core local machines to large distributed clusters in the cloud.
+- Dask provides a familiar user interface by mirroring the APIs of other libraries in the PyData ecosystem including: Pandas, scikit-learn and NumPy.
+***
+
+## Dask vs. Pandas vs. PySpark
 ![image](https://user-images.githubusercontent.com/89139139/213912660-4cbe017d-defb-4673-8e2d-1f93c1693c2d.png)
 
 ***
@@ -17,4 +26,5 @@
 
 ## References
 - [Distributed XGBoost with Dask](https://xgboost.readthedocs.io/en/stable/tutorials/dask.html)
+- [Dask](https://www.dask.org/)
 ***
